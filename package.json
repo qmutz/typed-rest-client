@@ -39,7 +39,7 @@
     "typescript": "3.1.5"
   },
   "dependencies": {
-    "qs": "^6.9.1",
+    "qs": "^6.11.0",
     "tunnel": "0.0.6",
     "underscore": "^1.12.1"
   }
